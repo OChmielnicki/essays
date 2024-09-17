@@ -1,1 +1,2 @@
-.ve-media https://data.artmuseum.princeton.edu/iiif/objects/134582
+.ve-header "George Bellow's *Love of Winter*"
+.ve-media https://api.artic.edu/api/v1/artworks/109780/manifest.json
