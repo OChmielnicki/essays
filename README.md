@@ -1,2 +1,1 @@
-# essays
-Juncture visual essays
+.ve-media https://data.artmuseum.princeton.edu/iiif/objects/134582
