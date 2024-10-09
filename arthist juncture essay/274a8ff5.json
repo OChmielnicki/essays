@@ -124,5 +124,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "a2c52613"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Notice the distinct lack of detail to the skaters' faces.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/274a8ff55b855cbe3cdcce010916c595b58409b7953d8cc39e76b9e6c2309f09",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:3055.65673828125,2308.44189453125,1186.13134765625,817.518310546875"
+      },
+      "id": "274a8ff5"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "ba88ed6b"
   }
 ]
