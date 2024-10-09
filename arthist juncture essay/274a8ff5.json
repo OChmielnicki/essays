@@ -1,0 +1,23 @@
+[
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Vivid contrast in color displayed in the focal point of the painting.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/274a8ff55b855cbe3cdcce010916c595b58409b7953d8cc39e76b9e6c2309f09",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1548.3575439453125,2841.28857421875,1105.8392333984375,777.372314453125"
+      },
+      "id": "274a8ff5"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "77df27db"
+  }
+]
