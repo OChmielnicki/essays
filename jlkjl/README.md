@@ -1,3 +1,5 @@
+# arthist juncture essay
+
 .ve-header "New York Scenes by George Bellows" wc:George_bellows.jpg
 
 This juncture essay will be talking about George Bellows's piece "Love of Winter" as part of a series of paintings he did portraying New York under snowfall. This particular piece was inspired by a blizzard that hit New York City in 1914. 
