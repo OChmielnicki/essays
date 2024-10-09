@@ -19,5 +19,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "77df27db"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Rosy flushed cheeks in the February cold.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/274a8ff55b855cbe3cdcce010916c595b58409b7953d8cc39e76b9e6c2309f09",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:4325.73046875,2082.16455078125,583.94091796875,470.802978515625"
+      },
+      "id": "274a8ff5"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "e29a0023"
   }
 ]
