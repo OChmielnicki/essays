@@ -103,5 +103,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "ca5da9f2"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "Blurry, hurried strokes of fast-moving skaters on the ice frames a snapshot moment in time.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/274a8ff55b855cbe3cdcce010916c595b58409b7953d8cc39e76b9e6c2309f09",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:1497.2626953125,2253.697265625,1937.9560546875,368.61328125"
+      },
+      "id": "274a8ff5"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "973872a7"
   }
 ]
