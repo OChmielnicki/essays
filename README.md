@@ -5,3 +5,5 @@ This juncture essay will be talking about George Bellows's piece "Love of Winter
 .ve-media wc:George_Bellows_-_Love_of_Winter,_1914.jpg
 
 Bellows adds details to his piece to portray the excited energy of New Yorkers on this bright wintery day. His impressionist method of slashed brushstrokes gives the piece a sense of movement and nicely captures the moment of the skaters across a lake.
+
+annotation 1: 
