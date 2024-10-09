@@ -1,4 +1,3 @@
-# arthist juncture essay
 
 .ve-header "New York Scenes by George Bellows" wc:George_bellows.jpg
 
