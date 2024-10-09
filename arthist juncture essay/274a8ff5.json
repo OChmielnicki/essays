@@ -103,5 +103,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "ce110a87"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "A man, smartly dressed, lacing up his skates before heading out onto the ice.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/274a8ff55b855cbe3cdcce010916c595b58409b7953d8cc39e76b9e6c2309f09",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2792.883056640625,2877.784912109375,1025.54736328125,755.474609375"
+      },
+      "id": "274a8ff5"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "a2c52613"
   }
 ]
