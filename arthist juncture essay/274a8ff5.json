@@ -40,5 +40,26 @@
     },
     "@context": "http://www.w3.org/ns/anno.jsonld",
     "id": "e29a0023"
+  },
+  {
+    "type": "Annotation",
+    "body": [
+      {
+        "type": "TextualBody",
+        "value": "A mountainous background takes the viewer away from the gritty New York cityscape to a more peaceful place.",
+        "purpose": "commenting"
+      }
+    ],
+    "target": {
+      "source": "https://iiif-image.juncture-digital.org/iiif/2/274a8ff55b855cbe3cdcce010916c595b58409b7953d8cc39e76b9e6c2309f09",
+      "selector": {
+        "type": "FragmentSelector",
+        "conformsTo": "http://www.w3.org/TR/media-frags/",
+        "value": "xywh=pixel:2066.605712890625,439.8288879394531,2383.211669921875,1288.3212585449219"
+      },
+      "id": "274a8ff5"
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "04b2a5f7"
   }
 ]
