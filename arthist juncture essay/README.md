@@ -9,7 +9,7 @@ Bellows adds details to his piece to portray the excited energy of New Yorkers o
 
 #Scholarly Insight
 
-.ve-video https://youtu.be/A2Tl5h6gOUA?si=qDmOeCo4WIZg78xb
+.ve-video https://www.youtube.com/watch?v=A2Tl5h6gOUA
 
 The YouTube video shown above features a discussion done by Professor David Peters on another one of Bellows's famous New York City "snow scene" pieces, "The Palisades", which was painted in 1909. This piece, along with his "Love of Winter", is one of many to highlight the transformation of New York City under snowfall. It is also another example of Bellows's usage of dramatic, vivid brushstrokes that are a key part of Impressionist artwork.
 
