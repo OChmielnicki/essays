@@ -7,9 +7,13 @@ This juncture essay will be talking about George Bellows's piece "Love of Winter
 
 Bellows adds details to his piece to portray the excited energy of New Yorkers on this bright and cheerful wintery day. His impressionist method of slashed brushstrokes gives the piece a sense of movement and nicely captures the moment of the skaters across a lake.
 
+#Comparing Winter Pieces
+
+Included are two other paintings that were done as part of Bellows's Impressionist pieces of New York City under snowfall: "A Morning Snow-Hudson River" (left), and "The Pallisades" (right). These pieces, along with "Love of Winter", are some of many that capture the transformation of New York City under snowfall. These are also more examples of Bellows's usage of dramatic, vivid brushstrokes of oil on canvas that are a key part of Impressionist artwork. "A Morning Snow-Hudson River", painted in 1910, depicts the contrast between the stillness of a crisp winter morning and the bustle of the cityfolk going about their day. 
+
 #Scholarly Insight
 
 .ve-video https://www.youtube.com/watch?v=A2Tl5h6gOUA
 
-The YouTube video shown above features a discussion done by Professor David Peters on another one of Bellows's famous New York City "snow scene" pieces, "The Palisades", which was painted in 1909. This piece, along with his "Love of Winter", is one of many to highlight the transformation of New York City under snowfall. It is also another example of Bellows's usage of dramatic, vivid brushstrokes that are a key part of Impressionist artwork.
+The YouTube video shown above features a discussion done by Professor David Peters on "The Palisades" and gives professional insight on the painting's origin and composition.
 
