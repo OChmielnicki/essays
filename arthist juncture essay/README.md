@@ -9,7 +9,7 @@ Bellows adds details to his piece to portray the excited energy of New Yorkers o
 
 #Comparing Winter Pieces
 
-.ve-media wc:Brooklyn_Museum_-_A_Morning_Snow--Hudson_River_-_George_Wesley_Bellows_-_overall.jpg left
+.ve-media wc:Brooklyn_Museum_-_A_Morning_Snow--Hudson_River_-_George_Wesley_Bellows_-_overall.jpg left 
 
 Two other works I included above were painted as part of Bellows's Impressionist pieces of New York City under snowfall: "A Morning Snow-Hudson River" (left), and "The Pallisades" (right). These pieces, along with "Love of Winter", are some of many that capture the transformation of New York City under snowfall. These are also more examples of Bellows's usage of dramatic, vivid brushstrokes that are a key part of Impressionist artwork and make the viewer aware of the movement of the scenes. "A Morning Snow-Hudson River", painted in 1910, depicts the contrast between the stillness of a crisp winter morning and the bustle of the cityfolk going about their day. "The Palisades", painted in 1909, gives another view of the Hudson River from above. Bellow's usage of complementary colors such as blue and orange give the piece a sense of harmony.
 
