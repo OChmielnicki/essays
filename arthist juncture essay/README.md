@@ -5,7 +5,7 @@ This juncture essay will be talking about ==George Bellows's=={Q167132} piece "L
 
 .ve-media wc:George_Bellows_-_Love_of_Winter,_1914.jpg
 
-Bellows adds details to his piece to portray the excited energy of New Yorkers on this bright and cheerful wintery day. His impressionist method of slashed brushstrokes gives the piece a sense of movement and nicely captures the moment of the skaters across a lake.
+Bellows adds details to his piece to portray the excited energy of New Yorkers on this bright and cheerful wintery day. His impressionist method of slashed brushstrokes gives the piece a sense of movement and nicely captures the moment of the skaters across a lake. The hills added to the background might allude to this being located someplace in the mountains, whereas the actual location was still Central Park in New York City
 
 #Comparing Winter Pieces
 
@@ -22,4 +22,4 @@ The YouTube video shown above features a discussion done by Professor David Pete
 
 #Additional Information about the Author
 
-George Bellows was a well-known American realist painter of the late 19th century to early 20th century. His success throughout his artistic career was widely admired, and was deemed as "the most acclaimed American artist of his generation", according to the ==Columbus Museum of Art=={Q5935366}. He was most well-known for his paintings of life in New York City, and I find that his series of works of New York under snowfall connects well with his impressionistic painting motif at that time. In addition to contributing to a wider variety of themes regarding New York City, the wintery landscapes were able to help Bellows in developing his own artistic skills. As discussed by the [Norton Museum of Art](https://tfaoi.org/newsmu/nmus18e.htm), his "New York under snowfall" series helped Bellows master both color composition and paint application for his paintings, further developing his skills as an exceptional artist of the 20th century. 
+George Bellows was a well-known American realist painter of the late 19th century to early 20th century. His success throughout his artistic career was widely admired, and was deemed as "the most acclaimed American artist of his generation", according to the ==Columbus Museum of Art=={Q5935366}. He was most well-known for his paintings of life in New York City, and I find that his series of works of New York under snowfall connects well with his impressionistic painting motif at that time. In addition to contributing to a wider variety of themes regarding New York City, the wintery landscapes were able to help Bellows in developing his own artistic skills. An article by the [Norton Museum of Art](https://tfaoi.org/newsmu/nmus18e.htm) points out that his "New York under snowfall" series helped Bellows master both color composition and paint application for his paintings, further developing his skills as an exceptional artist of the 20th century. 
