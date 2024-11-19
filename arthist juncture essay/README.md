@@ -20,3 +20,7 @@ Two other works I included above were painted as part of Bellows's Impressionist
 
 The YouTube video shown above features a discussion done by Professor David Peters Corbett on Bellows's "The Palisades" and gives professional insight on the painting's origin and composition.
 
+#Additional Information about the Author
+
+George Bellows was a well-known American realist painter of the late 19th century to early 20th century. His success throughout his artistic career was widely admired, and was deemed as "the most acclaimed American artist of his generation", according to the ==Columbus Museum of Art== {Q5935366}.
+
