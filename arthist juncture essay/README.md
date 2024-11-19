@@ -22,5 +22,5 @@ The YouTube video shown above features a discussion done by Professor David Pete
 
 #Additional Information about the Author
 
-George Bellows was a well-known American realist painter of the late 19th century to early 20th century. His success throughout his artistic career was widely admired, and was deemed as "the most acclaimed American artist of his generation", according to the ==Columbus Museum of Art== {Q5935366} .
+George Bellows was a well-known American realist painter of the late 19th century to early 20th century. His success throughout his artistic career was widely admired, and was deemed as "the most acclaimed American artist of his generation", according to the ==Columbus Museum of Art=={Q5935366} .
 
