@@ -5,7 +5,7 @@ This juncture essay will be talking about ==George Bellows's=={Q167132} piece "L
 
 .ve-media wc:George_Bellows_-_Love_of_Winter,_1914.jpg
 
-Bellows adds details to his piece to portray the excited energy of New Yorkers on this bright and cheerful wintery day. His impressionist method of slashed brushstrokes gives the piece a sense of movement and nicely captures the moment of the skaters across a lake. Contributors on a publication of the piece to the website [Useum](https://useum.org/artwork/Love-of-Winter-George-Bellows) add that the bright and vivid colors are a juxtaposition to the usual "gritty realities of life" that Bellows paints, and that like other Impressionists, put detail into the way the snow appears in the light versus in the shadow. The hills added to the background might allude to this being located someplace in the mountains, whereas the actual location was still Central Park in New York City.
+Bellows adds details to his piece to portray the excited energy of New Yorkers on this bright and cheerful wintery day. His impressionist method of slashed brushstrokes gives the piece a sense of movement and nicely captures the moment of the skaters across a lake. Contributors on a publication of the piece to the website [Useum](https://useum.org/artwork/Love-of-Winter-George-Bellows) add that the bright and vivid colors are a juxtaposition to the usual "gritty realities of life" that Bellows paints, and that like other Impressionists, put detail into the way the snow appears in the light versus in the shadow. The hills added to the background might allude to this being located someplace in the mountains, whereas the actual location was still ==Central Park=={Q160409} in New York City.
 
 #Comparing Winter Pieces
 
