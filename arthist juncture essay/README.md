@@ -18,7 +18,7 @@ Two other works I included above were painted as part of Bellows's Impressionist
 
 .ve-video https://www.youtube.com/watch?v=A2Tl5h6gOUA
 
-The YouTube video shown above features a discussion done by Professor David Peters Corbett on Bellows's "The Palisades" and gives professional insight on the painting's origin and composition.
+The YouTube video shown above features a discussion done by Professor ==David Peters Corbett=={Q106448329} on Bellows's "The Palisades" and gives professional insight on the painting's origin and composition.
 
 #Additional Information about the Author
 
