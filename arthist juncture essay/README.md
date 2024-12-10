@@ -29,7 +29,7 @@ George Bellows was a well-known American realist painter of the late 19th centur
 
 [^2] Keisha KR, [“Love of Winter by George Bellows”](https://useum.org/artwork/Love-of-Winter-George-Bellows), Useum, Accessed December 10, 2024.
 
-[^3] 
+[^3] [“A Morning Snow – Hudson River (1910) by George Bellows.”](https://www.artchive.com/artwork/a-morning-snow-hudson-river-1910-by-george-bellows/), Artchive, 2024.
 
 [^4] Christopher Riopelle, ["*The Palisades*, 1909"](https://conversations.terraamericanart.org/artworks/the-palisades/) in *Conversations with the Collection*, Terra Foundation for American Art, October 1999.
 
