@@ -29,4 +29,4 @@ George Bellows was a well-known American realist painter of the late 19th centur
 [^2] Keisha KR, [“Love of Winter by George Bellows”](https://useum.org/artwork/Love-of-Winter-George-Bellows), Useum, Accessed December 10, 2024.
 [^3] 
 [^4]
-[^5] [“George Bellows: Love of Winter.”](https://tfaoi.org/newsmu/nmus18e.htm.) Traditional Fine Arts Organization, 2012. https://tfaoi.org/newsmu/nmus18e.htm. 
+[^5] [“George Bellows: Love of Winter.”](https://tfaoi.org/newsmu/nmus18e.htm) Traditional Fine Arts Organization, 2012. https://tfaoi.org/newsmu/nmus18e.htm. 
