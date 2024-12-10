@@ -28,5 +28,5 @@ George Bellows was a well-known American realist painter of the late 19th centur
 [^1] Bellows, George Wesley. *Love of Winter.* The Art Institute of Chicago, January 1, 1970. https://www.artic.edu/artworks/109780/love-of-winter. 
 [^2] Keisha KR, [“Love of Winter by George Bellows”](https://useum.org/artwork/Love-of-Winter-George-Bellows), Useum, Accessed December 10, 2024.
 [^3] 
-[^4] Christopher Riopelle, ["*The Palisades*, 1909"](https://conversations.terraamericanart.org/artworks/the-palisades/) - Conversations with the Collection - Terra Foundation for American Art, October 1999. https://conversations.terraamericanart.org/artworks/the-palisades/. 
+[^4] Christopher Riopelle, ["*The Palisades*, 1909"](https://conversations.terraamericanart.org/artworks/the-palisades/) in *Conversations with the Collection*, Terra Foundation for American Art, October 1999.
 [^5] Norton Museum of Art, [“George Bellows: Love of Winter.”](https://tfaoi.org/newsmu/nmus18e.htm) Traditional Fine Arts Organization, 2012.
