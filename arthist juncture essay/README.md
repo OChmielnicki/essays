@@ -1,7 +1,7 @@
 
 .ve-header "New York Scenes by George Bellows" wc:George_bellows.jpg
 
-This juncture essay will be talking about ==George Bellows's=={Q167132} piece "==Love of Winter=={Q20267532}" as part of a series of paintings he did portraying New York under snowfall. This particular piece was inspired by a blizzard that hit New York City in 1914. 
+This juncture essay will be talking about ==George Bellows's=={Q167132} piece "==Love of Winter=={Q20267532}" as part of a series of paintings he did portraying New York under snowfall. This particular piece was inspired by a blizzard that hit New York City in 1914 [^1]. 
 
 .ve-media wc:George_Bellows_-_Love_of_Winter,_1914.jpg
 
